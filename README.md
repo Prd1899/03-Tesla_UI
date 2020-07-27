@@ -1,9 +1,9 @@
-# Weather UI
+# Tesla  app UI
 
-A clean UI for weather apps .
+A clean UI for Tesla iOS app .
 
 ## Screenshots
-<img width="450" alt="Screenshot" src="https://github.com/Prd1899/01-Weather_UI/blob/master/assets/20200721_025510.jpg?raw=true">       <img width="450" alt="Screenshot" src="https://github.com/Prd1899/01-Weather_UI/blob/master/assets/20200721_025448.jpg?raw=true">
+<img width="450" alt="Screenshot" src="https://github.com/Prd1899/03-Tesla_UI/blob/master/assets/Screenshot_1595857545.png?raw=true">       <img width="450" alt="Screenshot" src="https://github.com/Prd1899/03-Tesla_UI/blob/master/assets/Screenshot_1595858093.png?raw=true">
 
 
 
